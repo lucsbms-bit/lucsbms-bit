@@ -1,12 +1,5 @@
-<h1 align="center">Olá, eu sou o Lucas 👋</h1>
+<h1 align="center">Olá, eu sou o Shaq👋</h1>
 
-<p align="center">
-  Construindo experiências com JavaScript, HTML e CSS 
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+JS+%7C+HTML+%7C+CSS;Criador+de+Bots+para+Discord;Fundador+da+Astrix+Applications;Sempre+aprendendo+algo+novo+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Visualizações+do+perfil&color=6C63FF&style=flat" alt="visitor badge"/>
